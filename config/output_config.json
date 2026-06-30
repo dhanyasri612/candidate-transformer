@@ -1,0 +1,81 @@
+{
+  "include_provenance": true,
+  "include_confidence": true,
+  "fields": [
+    {
+      "path": "candidate_name",
+      "from": "full_name",
+      "provenance_key": "full_name"
+    },
+    {
+      "path": "primary_email",
+      "from": "emails[0]",
+      "provenance_key": "emails"
+    },
+    {
+      "path": "primary_phone",
+      "from": "phones[0]",
+      "provenance_key": "phones"
+    },
+    {
+      "path": "skills",
+      "from": "skills",
+      "provenance_key": "skills"
+    },
+    {
+      "path": "location",
+      "from": "location",
+      "provenance_key": "location"
+    },
+    {
+      "path": "education",
+      "from": "education",
+      "provenance_key": "education"
+    },
+    {
+      "path": "experience",
+      "from": "experience",
+      "provenance_key": "experience"
+    },
+    {
+      "path": "links",
+      "from": "links",
+      "provenance_key": "links"
+    },
+    {
+      "path": "github_username",
+      "from": "github_profile.username",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_name",
+      "from": "github_profile.name",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_followers",
+      "from": "github_profile.followers",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_public_repos",
+      "from": "github_profile.public_repos",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_company",
+      "from": "github_profile.company",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_location",
+      "from": "github_profile.location",
+      "provenance_key": "github_profile"
+    },
+    {
+      "path": "github_profile_url",
+      "from": "github_profile.profile_url",
+      "provenance_key": "github_profile"
+    }
+  ]
+}

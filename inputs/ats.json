@@ -1,0 +1,115 @@
+[
+  {
+    "candidateId": "ATS001",
+    "firstName": "Harshini",
+    "lastName": "S",
+    "primaryEmail": "harshisvc@gmail.com",
+    "mobile": "+91-8122853115",
+    "currentEmployer": "Nitroware Technologies Pvt Ltd",
+    "designation": "Machine Learning Intern",
+    "location": "Coimbatore, Tamil Nadu",
+    "experienceYears": 0.2,
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "Machine Learning",
+      "CNN",
+      "TensorFlow",
+      "Scikit-learn",
+      "RAG",
+      "LLM",
+      "Git",
+      "GitHub"
+    ],
+    "education": {
+      "degree": "B.E. Computer Science and Engineering (AI & ML)",
+      "institution": "KPR Institute of Engineering and Technology",
+      "cgpa": 8.44,
+      "graduationYear": 2027
+    },
+    "profiles": {
+      "github": "",
+      "linkedin": ""
+    },
+    "source": "ATS"
+  },
+  {
+    "candidateId": "ATS002",
+    "firstName": "Dhanyasri",
+    "lastName": "K",
+    "primaryEmail": "dhanyasrikalisamy@gmail.com",
+    "mobile": "8825938529",
+    "currentEmployer": "Nitroware Technologies Pvt Ltd",
+    "designation": "Machine Learning Intern",
+    "location": "Coimbatore",
+    "experienceYears": 0.2,
+    "skills": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "SQL",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Django",
+      "Flask",
+      "REST API",
+      "TensorFlow",
+      "CNN",
+      "Git",
+      "GitHub"
+    ],
+    "education": {
+      "degree": "B.E. Computer Science and Engineering (AI & ML)",
+      "institution": "KPR Institute of Engineering and Technology",
+      "cgpa": 8.77,
+      "graduationYear": 2027
+    },
+    "profiles": {
+      "github": "",
+      "linkedin": ""
+    },
+    "source": "ATS"
+  },
+  {
+    "candidateId": "ATS003",
+    "firstName": "Bharani",
+    "lastName": "R",
+    "primaryEmail": "bharanir1010@gmail.com",
+    "mobile": "+91 6374924571",
+    "currentEmployer": "Nitroware Technologies Pvt Ltd",
+    "designation": "Machine Learning Intern",
+    "location": "Coimbatore, India",
+    "experienceYears": 0.2,
+    "skills": [
+      "Python",
+      "SQL",
+      "Java",
+      "Machine Learning",
+      "LLM",
+      "NLP",
+      "Transformers",
+      "RAG",
+      "LangChain",
+      "FAISS",
+      "Groq",
+      "FastAPI",
+      "Django",
+      "Git",
+      "GitHub"
+    ],
+    "education": {
+      "degree": "B.E. Computer Science and Engineering (AI & ML)",
+      "institution": "KPR Institute of Engineering and Technology",
+      "cgpa": 8.2,
+      "graduationYear": 2027
+    },
+    "profiles": {
+      "github": "",
+      "linkedin": ""
+    },
+    "source": "ATS"
+  }
+]

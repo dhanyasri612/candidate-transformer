@@ -1,0 +1,9 @@
+pandas
+pdfplumber
+pydantic
+phonenumbers
+dateparser
+rapidfuzz
+click
+pytest
+requests
