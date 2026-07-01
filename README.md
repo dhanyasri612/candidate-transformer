@@ -4,9 +4,16 @@ A modular data engineering pipeline that consolidates candidate information from
 
 ---
 
+## Demo
+
+▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1Lqk9syfVzKwx4tWB4hDdi7PiTeqU6RMa?usp=drive_link)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
+- [Demo](#demo)
 - [Pipeline Architecture](#pipeline-architecture)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
